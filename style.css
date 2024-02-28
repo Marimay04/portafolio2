@@ -1,0 +1,36 @@
+h1{
+    color: #422112;
+}
+.header{
+    background-color: #EED7CD;
+    display: flex;
+    justify-content: space-between;
+}
+.menu{
+    background-color: #9C715E;
+    display: flex;
+    justify-content: space-around;
+}
+.grid{
+    background-color: #9C715E;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.item{
+    background-color: #EED7CD;
+    font-family: serif;
+    font-size: larger;
+    color: #131421;
+}
+p{
+
+    font-family: Times;
+    font-size: medium;
+    font-style: oblique;
+    color: #131421;
+}
+.footer{
+    display: flex;
+    justify-content: center
+}
